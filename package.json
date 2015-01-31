@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "firebase": "2.0.x",
-    "react": "0.12.x"
+    "react": "*"
   },
   "devDependencies": {
     "coveralls": "^2.11.1",
